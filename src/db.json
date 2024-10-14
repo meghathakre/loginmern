@@ -1,0 +1,46 @@
+{
+  "customer": [
+    {
+      "id": "1",
+      "name": "megha",
+      "email": "megha@123",
+      "userid": "megha123",
+      "password": "m123"
+    },
+    {
+      "id": "1",
+      "name": "megha",
+      "email": "megha@123",
+      "userid": "megha123",
+      "password": "m123"
+    },
+    {
+      "id": "1",
+      "name": "megha",
+      "email": "megha@123",
+      "userid": "megha123",
+      "password": "m123"
+    },
+    {
+      "id": "1",
+      "name": "megha",
+      "email": "megha@123",
+      "userid": "megha123",
+      "password": "m123"
+    },
+    {
+      "id": "e092",
+      "name": "kumkum",
+      "email": "kum@123",
+      "userid": "kumu",
+      "password": "k123"
+    },
+    {
+      "id": "60f2",
+      "name": "megha",
+      "email": "megha2@123",
+      "userid": "megha123 ",
+      "password": "m123"
+    }
+  ]
+}
